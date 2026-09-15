@@ -1,0 +1,8 @@
+---
+version: 1
+repository:
+  owner: 
+  tier: tier_3
+  tags:
+  - key: managed_by
+    value: "custom_integration_test"
